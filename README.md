@@ -6,4 +6,5 @@ This project analyzes OLA's performance for July 2024 using SQL and Power BI. Th
 ##Tools & Technologies Used
 
 -SQL: Data cleaning, transformation, and analysis.
+
 -Power BI: Data visualization and dashboard creation.
