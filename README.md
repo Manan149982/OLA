@@ -39,3 +39,26 @@ This project analyzes OLA's performance for July 2024 using SQL and Power BI. Th
 
 7. Payment Mode Analysis:
 - Evaluated the most used payment methods (cash, card, UPI, etc.).
+
+
+## Visualizations
+
+The Power BI dashboard includes:
+- Ride Volume Over Time: Shows the total number of bookings across different dates.
+- Booking Status Breakdown: Displays the percentage of successful and canceled rides.
+- Cancellation Analysis:
+-- Canceled rides by customers and reasons.
+
+Canceled rides by drivers and reasons.
+
+Revenue Analysis:
+
+Revenue by different payment methods (Cash, UPI, Credit Card, Debit Card).
+
+Revenue trends over the month.
+
+Customer Analysis:
+
+Top 5 customers based on total booking value.
+
+Customer ratings and feedback analysis.
