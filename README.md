@@ -44,7 +44,8 @@ This project analyzes OLA's performance for July 2024 using SQL and Power BI. Th
 ## Visualizations
 
 The Power BI dashboard includes:
-- Ride Volume Over Time: Shows the total number of bookings across different dates.
+* Ride Volume Over Time:
+- Shows the total number of bookings across different dates.
 - Booking Status Breakdown: Displays the percentage of successful and canceled rides.
 - Cancellation Analysis:
 -- Canceled rides by customers and reasons.
