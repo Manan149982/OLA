@@ -12,10 +12,10 @@ This project analyzes OLA's performance for July 2024 using SQL and Power BI. Th
 
 ## Key Analyses Performed
 
-- Total Rides & Revenue Analysis:
-Aggregated total number of rides.
+1. Total Rides & Revenue Analysis:
+- Aggregated total number of rides.
 
-Analyzed revenue generated for July 2024.
+- Analyzed revenue generated for July 2024.
 
 
 - Peak Hour Analysis:
