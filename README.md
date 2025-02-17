@@ -18,26 +18,26 @@ This project analyzes OLA's performance for July 2024 using SQL and Power BI. Th
 - Analyzed revenue generated for July 2024.
 
 
-- Peak Hour Analysis:
+2. Peak Hour Analysis:
 
-Identified peak booking hours and busiest days.
+- Identified peak booking hours and busiest days.
 
-Driver Performance Analysis:
+3. Driver Performance Analysis:
 
-Evaluated top-performing drivers based on completed trips and ratings.
+- Evaluated top-performing drivers based on completed trips and ratings.
 
-Customer Segmentation:
+4. Customer Segmentation:
 
-Analyzed customer demographics to understand user behavior.
+- Analyzed customer demographics to understand user behavior.
 
-Cancellation Rate Analysis:
+5. Cancellation Rate Analysis:
 
-Identified reasons for ride cancellations and their impact on revenue.
+- Identified reasons for ride cancellations and their impact on revenue.
 
-Trip Duration & Distance Trends:
+6. Trip Duration & Distance Trends:
 
-Examined average trip time and distances covered.
+- Examined average trip time and distances covered.
 
-Payment Mode Analysis:
+7. Payment Mode Analysis:
 
-Evaluated the most used payment methods (cash, card, UPI, etc.).
+- Evaluated the most used payment methods (cash, card, UPI, etc.).
